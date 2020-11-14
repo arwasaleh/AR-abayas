@@ -5,6 +5,7 @@
 @import url(https://fonts.googleapis.com/earlyaccess/scheherazade.css);
 @import url(https://fonts.googleapis.com/earlyaccess/thabit.css);
 
+
 * {
   margin: 0;
   padding: 0;
@@ -264,7 +265,7 @@ html {
 .img-wrapper img {
   width: 100%;
   height: 100%;
-  position: relative;
+position: relative;
   animation: scale 30s;
 }
 
@@ -348,6 +349,7 @@ html {
   background-color: #fff;
   transition: right 0.5s;
   z-index: 100;
+   overflow-y: auto;
 }
 
 .change .sidebar {
