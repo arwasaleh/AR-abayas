@@ -184,7 +184,7 @@ html {
 }
 
 .change .hamburger-menu {
-  right: 20rem;
+  right: 28rem;
 }
 
 .line {
@@ -340,9 +340,9 @@ html {
 }
 
 .sidebar {
-  width: 25rem;
+  width: 33rem;
   height: 100vh;
-  position: absolute;
+  position: fixed;
   top: 0;
   right: -40rem;
   background-color: #fff;
